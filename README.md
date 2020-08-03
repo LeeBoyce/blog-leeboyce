@@ -9,7 +9,7 @@
 [源码分析-SpringFramework之IoC容器初始化](https://www.cnblogs.com/boycelee/p/12595884.html)  
 ## 逆向知识
 ### Android
-[Xposed](https://www.cnblogs.com/boycelee/p/13418371.html)  
+[Xposed原理分析](https://www.cnblogs.com/boycelee/p/13418371.html)  
 ### iOS
 [IOS抓取与反抓取](https://www.cnblogs.com/boycelee/p/12827530.html)  
 ## 验证码
